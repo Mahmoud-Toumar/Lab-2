@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLab2</string>
+    <string name="title">Regarde Mon Gui</string>
+    <string name="switch_text">allumer/ éteindre</string>
+    <string name="text_place">écrivez ici...</string>
+    <string name="check">Regarde ça</string>
+    <string name="button_text">Cliquez ici</string>
+</resources>

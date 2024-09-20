@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidLab2</string>
+    <string name="title">Look at my Gui</string>
+    <string name="switch_text">Switch on/off</string>
+    <string name="text_place">Type Here...</string>
+    <string name="check">Check This Out</string>
+    <string name="button_text">Click Here</string>
+
+</resources>
